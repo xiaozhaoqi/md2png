@@ -6,4 +6,4 @@ npm i md2png -g
 cd {markdown file path}
 md2png filename.md
 ```
-node: you need install chromium in this process.
+note: you need install chromium in this process.

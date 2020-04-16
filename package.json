@@ -1,6 +1,6 @@
 {
   "name": "md2png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a simple cli tool with convert markdown file to png image",
   "main": "index.js",
   "scripts": {
