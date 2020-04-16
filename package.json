@@ -1,0 +1,21 @@
+{
+  "name": "md2png",
+  "version": "1.0.2",
+  "description": "a simple cli tool with convert markdown file to png image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "md2png": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.3.0",
+    "puppeteer": "^3.0.0",
+    "showdown": "^1.9.1"
+  }
+}
